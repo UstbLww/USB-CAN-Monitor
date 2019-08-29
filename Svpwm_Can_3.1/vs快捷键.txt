@@ -1,0 +1,40 @@
+F6编译  F12转到定义  home end 到行头行尾
+
+
+
+Alt + ↑  调剂多行
+
+Alt + shift + F10  快速实现
+
+打断点之后，按ctrl +F10 跳到断点处   F10是逐过程调试，是一个方法一个方法调试
+
+ctrl + j  强迫智能感知
+
+Ctrl+shift+L   快速删除一行
+
+ctrl+shift+空格  会出现函数重载提示
+
+ctrl + k + c 注释  需要松开K
+
+ctrl + k + u 解注  需要松开U
+
+ctrl + k + d 自动对齐 需要松开k
+
+ctrl + k + f  自动对齐
+
+Ctrl + Tab  切换窗口
+
+Ctrl+Enter  在当前行上方插入一行
+
+Ctrl+Shift+Enter  在当前行上方插入一行
+
+shift + ↑  选中多行
+
+shift + →or ←可以多选一行文字
+
+
+
+
+
+
+
